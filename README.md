@@ -4,8 +4,7 @@
 - 💞️ I’m looking for internship oppurtunities.
 - 📫 How to reach me-
   - linkedIn - https://www.linkedin.com/in/sanskargupta/
-- 🆕 I am learning NLP and Tableu as extra online courses currently.
-
+- pursuing #66daysofdata, posting about it on twitter. (twitter.com/sanskar1531)
 <!---
 Sanskar-16/Sanskar-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
