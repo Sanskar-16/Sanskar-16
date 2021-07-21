@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sanskar-16
+- 👋 Hi, I’m Sanskar
 - 👀 I’m interested in learning new programmig languages and analysing data.
-- 🌱 I’m currently in my 2nd year of BSc (Hons) Data Science & Analytics.
+- 🌱 I’m currently in my 3rd year of BSc (Hons) Data Science & Analytics.  
 - 💞️ I’m looking for internship oppurtunities.
 - 📫 How to reach me-
   - linkedIn - https://www.linkedin.com/in/sanskargupta/
