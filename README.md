@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Sanskar
-- 👀 I’m interested in learning new programmig languages and analysing data.
-- 🌱 I’m currently in my 3rd year of BSc (Hons) Data Science & Analytics.  
-- 💞️ I’m looking for internship oppurtunities.
-- 📫 How to reach me-
+Hi, I am Sanskar Gupta 👋
+
+About Me:
+I am a third year undergrad currently pursuing Data Science & Analytics.
+
+
+Projects:
+
+
+
+Competitions:
+
+
+
+Interests:
+
+
+
+📫 How to reach me-
   - linkedIn - https://www.linkedin.com/in/sanskargupta/
   - twitter - (www.twitter.com/sanskar1531)
   - intagram - (www.instagram.com/sanskar__16)
