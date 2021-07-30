@@ -1,4 +1,4 @@
-Hi, I am Sanskar Gupta <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="40" height ="40"/>
+Hi, I am Sanskar Gupta <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height ="30"/>
 
 About Me:
 I am a third year undergrad currently pursuing Data Science & Analytics.
@@ -14,7 +14,7 @@ Competitions:
 
 Interests:
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50" height="50" />
 
 📫 How to reach me-
   - linkedIn - https://www.linkedin.com/in/sanskargupta/
