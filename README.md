@@ -1,5 +1,9 @@
 Hi, I am Sanskar Gupta <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height ="30"/>
 
+<a href="https://twitter.com/sanskar1531">
+  <img align="left" alt="Sanskar Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 About Me:
 I am a third year undergrad currently pursuing Data Science & Analytics.
 
