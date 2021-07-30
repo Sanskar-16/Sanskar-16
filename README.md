@@ -1,4 +1,4 @@
-Hi, I am Sanskar Gupta 👋
+Hi, I am Sanskar Gupta👋
 
 About Me:
 I am a third year undergrad currently pursuing Data Science & Analytics.
@@ -26,4 +26,4 @@ Sanskar-16/Sanskar-16 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16&show_icons=true&theme=radical)
+![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16&show_icons=true&theme=tokyonight)
