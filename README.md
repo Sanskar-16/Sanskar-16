@@ -5,6 +5,7 @@ I am a third year undergrad currently pursuing Data Science & Analytics.
 
 
 Projects:
+  - currently practicing #66daysofdata, posting about it on twitter. 
 
 
 
@@ -12,11 +13,12 @@ Competitions:
 
 
 
-Interests:
+Interests:  
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50" height="50" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50" height="50" />  
 
 📫 How to reach me-   
+
 <a href="https://www.linkedin.com/in/sanskargupta/">
   <img align="left" alt="Sanskar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  
@@ -25,9 +27,9 @@ Interests:
 </a>  
 <a href="https://open.spotify.com/user/ipp3tj23xldk1z2y276wmz0p2?si=f3c117eb2335456f&nd=1">
   <img align="left" alt="Sanskar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>   
+</a>    
 
-- currently practicing #66daysofdata, posting about it on twitter. 
+
 <!---
 Sanskar-16/Sanskar-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
