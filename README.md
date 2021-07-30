@@ -27,16 +27,16 @@ Interests:
 </a>  
 <a href="https://open.spotify.com/user/ipp3tj23xldk1z2y276wmz0p2?si=f3c117eb2335456f&nd=1">
   <img align="left" alt="Sanskar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>    
+</a>   
+
+---
 
 
+![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16&show_icons=true&theme=tokyonight)   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-16&layout=compact&theme=tokyonight)   
 <!---
 Sanskar-16/Sanskar-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16&show_icons=true&theme=tokyonight)   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-16&layout=compact&theme=tokyonight)
-
 
