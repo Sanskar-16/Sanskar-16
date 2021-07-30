@@ -1,4 +1,4 @@
-Hi, I am Sanskar Gupta👋
+Hi, I am Sanskar Gupta https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif
 
 About Me:
 I am a third year undergrad currently pursuing Data Science & Analytics.
