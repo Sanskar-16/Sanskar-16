@@ -26,6 +26,5 @@ Sanskar-16/Sanskar-16 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16&show_icons=true)
+![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar-16&show_icons=true&theme=radical)
