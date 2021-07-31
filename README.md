@@ -1,19 +1,19 @@
 Hi, I am Sanskar Gupta <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30" height ="30"/>
 
-About Me:
+**About Me:**
 I am a third year undergrad currently pursuing Data Science & Analytics.
 
 
-Projects:
-  - currently practicing #66daysofdata, posting about it on twitter. 
+**Projects**:
+  - currently participating in #66daysofdata, posting about it on twitter. 
 
 
 
-Competitions:
+**Competitions**:
 
 
 
-Interests:  
+**Interests**:  
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50" height="50" />  
 
@@ -24,7 +24,7 @@ Github stats -
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-16&layout=compact&theme=tokyonight)     
 
-📫 How to reach me-   
+✍️ How to reach me-   
 
 <a href="https://www.linkedin.com/in/sanskargupta/">
   <img align="left" alt="Sanskar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
