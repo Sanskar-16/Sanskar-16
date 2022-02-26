@@ -5,15 +5,8 @@ Hi, I am Sanskar Gupta <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-han
 I am a third year undergrad currently pursuing Data Science & Analytics.
 
 
-**Projects:**
-
-
 **Challenges**
   - currently participating in #66daysofdata, posting about it on twitter. 
-
-
-**Competitions:**
-
 
 **Interests:** 
 
