@@ -29,7 +29,7 @@ I am a third year undergrad currently pursuing Data Science & Analytics.
   <img align="left" alt="Sanskar Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>  
 
-<a href="https://open.spotify.com/user/ipp3tj23xldk1z2y276wmz0p2?si=f3c117eb2335456f&nd=1">
+<a href="https://open.spotify.com/user/ipp3tj23xldk1z2y276wmz0p2?si=4242c76e07264aff">
   <img align="left" alt="Sanskar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>   
 <!---
